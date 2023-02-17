@@ -1,2 +1,1 @@
-# OrpPrepCourse-Henry
-Este es un repositorio de prueba del PrepCouser de Henry
+Este proyecto de como crear un repositorio y clonarlo desde git hub a miescritorio local
